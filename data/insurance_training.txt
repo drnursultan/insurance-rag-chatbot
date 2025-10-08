@@ -1,0 +1,101 @@
+Insurance Training Summary
+
+1. What is Insurance?
+Insurance provides financial protection against specific risks by pooling funds from many people. The insured pays premiums, and the insurer compensates for covered losses.
+
+2. Key Insurance Principles
+- Risk pooling: spreading risk among a large group.
+- Utmost good faith: both parties must be honest.
+- Indemnity: compensation restores, not enriches.
+- Insurable interest: must have stake in the insured subject.
+
+3. Types of Insurance
+First-Party Insurance covers the insured’s own property (home, car, health).
+Third-Party Insurance covers liability to others (e.g., auto liability, professional liability).
+
+Examples:
+- First-Party: Comprehensive Auto, Homeowners Property, PIP (Personal Injury Protection).
+- Third-Party: CGL (Commercial General Liability), Product Liability, Professional Liability.
+
+4. Key Parts of a Policy
+- Declarations Page: names, dates, limits, premiums.
+- Insuring Agreement: what’s covered.
+- Exclusions: what’s not covered.
+- Conditions: duties and responsibilities.
+- Endorsements: modifications to coverage.
+
+5. The Insuring Grant
+This defines what the insurer agrees to do — usually to defend and indemnify against claims of bodily injury or property damage caused by an occurrence (accident). Even false or baseless claims must be defended.
+
+6. Duty to Defend vs. Duty to Indemnify
+- Duty to Defend: based on allegations, even if untrue.
+- Duty to Indemnify: based on actual proven facts.
+
+7. Common Claims Excluded
+- Lost income, reputation, or goodwill.
+- Breach of contract (unless insured contract).
+- Intentional harm or fraud.
+- Government penalties or fines.
+- Damage to the insured’s own work or property.
+- Workers’ compensation obligations.
+- Auto, watercraft, or aircraft usage.
+
+8. “Occurrence” Requirement
+Coverage only applies when the incident is accidental, unexpected, or unforeseen from the insured’s perspective.
+
+9. Burdens of Proof
+- The insured must show the claim is within coverage.
+- The insurer must prove exclusions apply.
+Ambiguities are interpreted in favor of the insured.
+
+10. Conditions
+- Notice: prompt reporting of accidents or lawsuits.
+- Cooperation: the insured must assist in the investigation.
+- No voluntary payments: insured cannot settle without insurer consent.
+
+Late Notice:
+If delay ≤ 2 years → insurer must show prejudice.
+If delay > 2 years → insured must prove no prejudice occurred.
+
+11. Coverage B — Personal and Advertising Injury
+Covers specific intentional torts like:
+- False arrest or imprisonment
+- Malicious prosecution
+- Wrongful eviction
+- Libel, slander, invasion of privacy
+- Copyright or trade dress infringement
+- Using another’s advertising idea
+
+12. Suit Limitation
+Policies can limit the time to sue an insurer (sometimes as short as 1 year). In New York, bodily injury disclaimers must be issued within a reasonable time (≈30 days).
+
+13. N.Y. Insurance Law § 3420
+Insurers must promptly notify claimants and copy them on disclaimers for bodily injury or death. Failure to do so invalidates disclaimers for those claimants.
+
+14. Systematic Approach for Coverage Analysis
+Step 1: Review the claim — what is alleged?
+Step 2: Read the insuring agreement — bodily injury? property damage? occurrence?
+Step 3: Check exclusions — do any apply?
+Step 4: Review conditions — was notice/cooperation timely?
+Step 5: Verify timing — was disclaimer issued promptly?
+Step 6: Conduct legal research — is the exclusion enforceable?
+
+15. Common Terminology
+- Deductible: amount the insured pays before insurer covers.
+- Premium: regular payment to maintain coverage.
+- Limit: maximum the insurer will pay.
+- Policy period: active coverage timeframe.
+- Claim: formal request for coverage under the policy.
+
+16. Risk Management Tips
+- Always read your policy carefully.
+- Understand what is and isn’t covered.
+- Report incidents promptly.
+- Keep documentation of all communications.
+- Avoid assumptions — verify with your agent.
+
+17. Quick Reference Summary
+- Insurance = protection through pooled risk.
+- Policy = contract with rights and obligations.
+- Coverage analysis = understand grant, exclusions, conditions.
+- Be proactive: early notice prevents claim denial.

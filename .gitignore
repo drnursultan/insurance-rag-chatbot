@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+*.egg-info/
+
+# Data & cache
+chroma/
+cache/
+*.log
+
+# Notebooks auto checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
