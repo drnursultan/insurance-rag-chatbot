@@ -51,21 +51,21 @@ insurance-rag-chatbot/
 git clone https://github.com/yourusername/insurance-rag-chatbot.git
 cd insurance-rag-chatbot
 pip install -r requirements.txt
-
+```
 ### 2️⃣ Add your insurance text files
 
 ```bash
 Place .txt documents inside the data/ folder.
 You can include FAQs, policy manuals, or billing guides.
-
+```
 ### 3️⃣ Build embeddings
 ```bash
 python -m src.embed_store
-
+```
 ### 4️⃣ Start the chatbot
 ```bash
 python chat_cli.py
-
+```
 ### 💬 Example Interaction
 ```
 You: What does my coverage include?
